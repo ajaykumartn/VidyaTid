@@ -7,11 +7,11 @@ Werkzeug==3.0.1
 # Database
 SQLAlchemy==2.0.23
 
-# Vector Store and Embeddings
-chromadb==0.4.18
-sentence-transformers==2.2.2
-torch==2.1.2
-torchvision==0.16.2
+# Vector Store and Embeddings (optional - using cloud AI instead)
+# chromadb==0.4.18  # Not needed - using Cloudflare for embeddings
+# sentence-transformers==2.2.2  # Not needed - using cloud AI
+# torch==2.1.2  # Causing errors - not needed with Gemini
+# torchvision==0.16.2  # Not needed
 
 # LLM Inference (optional - not needed for cloud AI)
 # llama-cpp-python==0.2.90  # Commented out - large build, not needed with Gemini
