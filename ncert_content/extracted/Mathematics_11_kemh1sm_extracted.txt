@@ -1,0 +1,226 @@
+
+--- Page 1 ---
+
+SUPPLEMENTARY MATERIAL 357
+SUPPLEMENTARY MATERIAL
+CHAPTER 8
+8.6 Infinite G.P. and its Sum
+G.P. of the form a, ar, ar2, ar3, ... is called infinite G.P. Now, to find the formulae for
+finding sum to infinity of a G.P., we begin with an example.
+Let us consider the G.P.,
+2 4
+1, , ,...
+3 9
+2
+Here a = 1, r= . We have
+3
+ 2n
+1−
+ 3
+  2n
+S = =31−  
+n 1− 2  3 
+3
+2n
+Let us study the behaviour of   as n becomes larger and larger:
+3
+n 1 5 10 20
+ 2n
+  0.6667 0.1316872428 0.01734152992 0.00030072866
+ 3
+2n
+We observe that as n becomes larger and larger,   becomes closer and closer to
+3
+2n
+zero. Mathematically, we say that as n becomes sufficiently large,   becomes
+3
+2n
+sufficiently small. In other words as n→ ∞,  →0. Consequently, we find that the
+3
+sum of infinitely many terms is given by S =3.
+∞
+Reprint 2025-26
+
+--- Page 2 ---
+
+358 MATHEMATICS
+Now, for a geometric progression, a, ar, ar2, ..., if numerical value of common ratio r
+is less than 1, then
+a(1− rn) a arn
+S = = −
+n (1− r) 1−r 1− r
+In this case asn→∞,rn → 0 since |r| < 1. Therefore
+a
+S →
+n 1−r
+Symbolically sum to infinity is denoted by S or S.
+∞
+a
+Thus, we have S= .
+1–r
+For examples,
+1 1 1 1
+(i) 1+ + + + ...= = 2.
+2 22 23 1
+1−
+2
+1 1 1 1 1 2
+(ii) 1 − + − + ...= = =
+2 2 2 23  − 1  1 3
+1 −   1 +
+ 2  2
+Exercise 8.3
+Find the sum to infinity in each of the following Geometric Progression.
+1 1
+1. 1, , ,... (Ans. 1.5) 2. 6, 1.2, .24, ... (Ans. 7.5)
+3 9
+20 80 35 −3 3 −3 −3
+3. 5, , ,... (Ans. ) 4. , , ,... (Ans. )
+7 49 3 4 16 64 5
+1 1 1
+5. Prove that 3 2 × 3 4 × 38...= 3
+6. Let x = 1 + a + a2 + ... and y = 1 + b + b2 + ..., where |a| < 1 and |b| < 1. Prove that
+xy
+1 + ab + a2b2 + ... =
+x+ y−1
+Reprint 2025-26
+
+--- Page 3 ---
+
+SUPPLEMENTARY MATERIAL 359
+CHAPTER 12
+12.6 Limits Involving Exponential and Logarithmic Functions
+Before discussing evaluation of limits of the expressions involving exponential and
+logarithmic functions, we introduce these two functions stating their domain, range and
+also sketch their graphs roughly.
+Leonhard Euler (1707–1783), the great Swiss mathematician introduced the number
+e whose value lies between 2 and 3. This number is useful in defining exponential
+function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive
+real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.
+Fig. 13.11
+Similarly, the logarithmic function expressed as log R+ → R is given by log x = y,
+e e
+if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and
+range is R. The graph of logarithmic function y = log x is shown in Fig.13.12.
+e
+Reprint 2025-26
+
+--- Page 4 ---
+
+360 MATHEMATICS
+Fig. 13.12
+ex– 1
+In order to prove the result lim =1, we make use of an inequality involving
+x→0 x
+ex −1
+the expression which runs as follows:
+x
+1 ex –1
+≤ ≤ 1 + (e – 2) |x| holds for all x in [–1, 1] ~ {0}.
+1+ x x
+ex −1
+Theorem 6 Prove that lim = 1
+x→0 x
+Proof Using above inequality, we get
+1
+£
+ex −1
+1+ x x ≤ 1 + | x| (e – 2), x Î [–1, 1] ~ {0}
+1 1 1
+lim = = =1
+Also x→0 1+ x 1+ lim x 1+ 0
+x→0
+Reprint 2025-26
+
+--- Page 5 ---
+
+SUPPLEMENTARY MATERIAL 361
+and lim  1+ (e − 2) x   =1+ (e − 2)lim x =1+ (e − 2)0 =1
+x→0 x→0
+Therefore, by Sandwich theorem, we get
+ex −1
+lim = 1
+x→0 x
+log (1+ x)
+Theorem 7 Prove that lim e =1
+x→0 x
+log (1+ x)
+Proof Let e = y. Then
+x
+log (1+ x) = xy
+e
+⇒ 1+ x = exy
+exy −1
+⇒ =1
+x
+exy −1
+.y =1
+or
+xy
+exy −1
+⇒ lim lim y =1(since x → 0 gives xy → 0)
+xy→0 xy x→0
+ exy −1 
+⇒ lim y = 1 as lim = 1
+x→0  xy→0 xy 
+log (1+ x)
+⇒ lim e =1
+x→0 x
+e3x − 1
+Example 5 Compute lim
+x→ 0 x
+Solution We have
+e3x −1 e3x −1
+lim = lim ⋅3
+x→0 x 3x→0 3x
+ ey −1
+= 3lim , where y = 3x
+ y→0 y 
+= 3.1 = 3
+Reprint 2025-26
+
+--- Page 6 ---
+
+362 MATHEMATICS
+ex−sinx−1
+Example 6 Compute lim
+x→0 x
+ex −sinx−1 ex−1 sinx
+Solution We have lim =lim − 
+x→0 x x→0 x x 
+ex −1 sinx
+=lim −lim =1−1=0
+x→0 x x→0 x
+log x
+Example 7 Evaluate lim e
+x→1 x−1
+Solution Put x = 1 + h, then as x→1⇒h→0. Therefore,
+log x log (1+h)  log (1+ x) 
+lim e = lim e =1since lim e =1.
+x→1 x−1 h→0 h  x→0 x 
+Exercise 13.2
+Evaluate the following limits, if exist
+e4x −1 e2+x −e2
+1. lim (Ans. 4) 2. lim (Ans. e2)
+x→0 x x→0 x
+ex − e5 esinx −1
+3. lim (Ans. e5) 4. lim (Ans. 1)
+x→5 x − 5 x→0 x
+ex − e3 x(ex −1)
+5. lim (Ans. e3) 6. lim (Ans. 2)
+x→3 x − 3 x→0 1− cos x
+log (1+ 2x) log (1+ x3)
+7. lim e (Ans. 2) 8. lim (Ans. 1)
+x→0 x x→0 sin3 x
+Reprint 2025-26
+
+--- Page 7 ---
+
+SUPPLEMENTARY MATERIAL 363
+Notes
+Reprint 2025-26
+
+--- Page 8 ---
+
+364 MATHEMATICS
+Reprint 2025-26

@@ -1,0 +1,32 @@
+{
+  "paper_info": {
+    "exam_type": "JEE_MAIN",
+    "year": 2024,
+    "session": "January",
+    "subject": "Physics",
+    "question_count": 30,
+    "duration_minutes": 60,
+    "total_marks": 120
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What is the SI unit of force?",
+      "question_type": "MCQ",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correct_answer": "Newton",
+      "solution": "The SI unit of force is Newton (N), named after Sir Isaac Newton. 1 Newton = 1 kg⋅m/s²",
+      "difficulty": "easy",
+      "topic": "Units and Measurements",
+      "chapter": "Physical World and Measurement",
+      "marks": 4,
+      "negative_marks": -1,
+      "image_path": null
+    }
+  ]
+}

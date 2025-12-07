@@ -1,0 +1,818 @@
+{
+  "paper_info": {
+    "exam_type": "NEET",
+    "year": 2026,
+    "subject": "Chemistry"
+  },
+  "questions": [
+    {
+      "question_number": 46,
+      "question_text": "Which of the following species has the highest lattice enthalpy?",
+      "options": [
+        "MgO",
+        "NaCl",
+        "KBr",
+        "CaO"
+      ],
+      "correct_answer": "MgO",
+      "solution": "Lattice enthalpy increases with higher charge and smaller ionic radii. Mg2+ and O2− give very high charge density.",
+      "difficulty": "easy",
+      "chapter": "Chemical Bonding",
+      "topic": "Lattice enthalpy",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 47,
+      "question_text": "Which of the following gases is released when conc. H2SO4 reacts with solid NaCl?",
+      "options": [
+        "HCl",
+        "SO2",
+        "Cl2",
+        "H2"
+      ],
+      "correct_answer": "HCl",
+      "solution": "NaCl + H2SO4 (conc.) → NaHSO4 + HCl.",
+      "difficulty": "easy",
+      "chapter": "General Principles of Chemistry",
+      "topic": "Acid-base reactions",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 48,
+      "question_text": "For a first-order reaction, the half-life is 20 minutes. What is the rate constant?",
+      "options": [
+        "0.0346 min⁻¹",
+        "0.0231 min⁻¹",
+        "0.693 min⁻¹",
+        "0.346 min⁻¹"
+      ],
+      "correct_answer": "0.0346 min⁻¹",
+      "solution": "For first-order: t₁/₂ = 0.693/k ⇒ k = 0.693/20 = 0.0346 min⁻¹.",
+      "difficulty": "medium",
+      "chapter": "Chemical Kinetics",
+      "topic": "First-order kinetics",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 49,
+      "question_text": "Which of the following is the strongest oxidising agent?",
+      "options": [
+        "F2",
+        "Cl2",
+        "Br2",
+        "I2"
+      ],
+      "correct_answer": "F2",
+      "solution": "Fluorine has the highest electron affinity and most positive reduction potential.",
+      "difficulty": "easy",
+      "chapter": "p-Block Elements",
+      "topic": "Halogens",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 50,
+      "question_text": "The pH of 10⁻³ M HCl solution is approximately:",
+      "options": [
+        "3",
+        "11",
+        "1",
+        "7"
+      ],
+      "correct_answer": "3",
+      "solution": "Strong acid. pH = -log(10⁻³) = 3.",
+      "difficulty": "easy",
+      "chapter": "Equilibrium",
+      "topic": "pH calculations",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 51,
+      "question_text": "Which quantum number determines the shape of the orbital?",
+      "options": [
+        "Azimuthal quantum number (l)",
+        "Principal quantum number (n)",
+        "Spin quantum number (s)",
+        "Magnetic quantum number (m)"
+      ],
+      "correct_answer": "Azimuthal quantum number (l)",
+      "solution": "Azimuthal quantum number l describes subshell and orbital shape.",
+      "difficulty": "easy",
+      "chapter": "Structure of Atom",
+      "topic": "Quantum numbers",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 52,
+      "question_text": "In the electrolysis of molten NaCl, which product forms at the cathode?",
+      "options": [
+        "Na (metal)",
+        "Cl2 (gas)",
+        "NaOH",
+        "H2"
+      ],
+      "correct_answer": "Na (metal)",
+      "solution": "Na+ is reduced to sodium metal at cathode: Na+ + e− → Na.",
+      "difficulty": "medium",
+      "chapter": "Electrochemistry",
+      "topic": "Electrolysis",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 53,
+      "question_text": "Which of the following molecules has zero dipole moment?",
+      "options": [
+        "CO2",
+        "H2O",
+        "NH3",
+        "SO2"
+      ],
+      "correct_answer": "CO2",
+      "solution": "CO2 is linear and symmetric, so dipoles cancel out.",
+      "difficulty": "easy",
+      "chapter": "Chemical Bonding",
+      "topic": "Dipole moment",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 54,
+      "question_text": "Which hybridization is present in BF3?",
+      "options": [
+        "sp2",
+        "sp3",
+        "sp",
+        "sp3d"
+      ],
+      "correct_answer": "sp2",
+      "solution": "BF3 is trigonal planar with three σ-bonds → sp2.",
+      "difficulty": "easy",
+      "chapter": "Chemical Bonding",
+      "topic": "Hybridization",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 55,
+      "question_text": "Which among the following has the highest boiling point?",
+      "options": [
+        "H2O",
+        "H2S",
+        "H2Se",
+        "H2Te"
+      ],
+      "correct_answer": "H2O",
+      "solution": "H2O shows hydrogen bonding → highest boiling point.",
+      "difficulty": "easy",
+      "chapter": "States of Matter",
+      "topic": "Intermolecular forces",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 56,
+      "question_text": "Which of the following is a strong electrolyte?",
+      "options": [
+        "HCl",
+        "CH3COOH",
+        "NH3",
+        "H2O"
+      ],
+      "correct_answer": "HCl",
+      "solution": "Strong acids fully dissociate → strong electrolytes.",
+      "difficulty": "easy",
+      "chapter": "Solutions",
+      "topic": "Electrolytes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 57,
+      "question_text": "Which metal is extracted by the Hall–Héroult process?",
+      "options": [
+        "Aluminium",
+        "Iron",
+        "Copper",
+        "Zinc"
+      ],
+      "correct_answer": "Aluminium",
+      "solution": "Hall–Héroult process is electrolytic reduction of alumina.",
+      "difficulty": "medium",
+      "chapter": "Metallurgy",
+      "topic": "Extraction processes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 58,
+      "question_text": "Which of the following is the most stable carbocation?",
+      "options": [
+        "3° carbocation",
+        "2° carbocation",
+        "1° carbocation",
+        "Methyl carbocation"
+      ],
+      "correct_answer": "3° carbocation",
+      "solution": "Stability: 3° > 2° > 1° > methyl due to hyperconjugation.",
+      "difficulty": "easy",
+      "chapter": "Organic Chemistry Basics",
+      "topic": "Carbocation stability",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 59,
+      "question_text": "Which reagent converts alcohol to aldehyde?",
+      "options": [
+        "PCC",
+        "KMnO4",
+        "K2Cr2O7",
+        "Conc. HNO3"
+      ],
+      "correct_answer": "PCC",
+      "solution": "PCC gives partial oxidation: alcohol → aldehyde.",
+      "difficulty": "medium",
+      "chapter": "Alcohols & Phenols",
+      "topic": "Oxidation of alcohols",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 60,
+      "question_text": "Which among the following is aromatic?",
+      "options": [
+        "Benzene",
+        "Cyclohexane",
+        "Cyclobutane",
+        "Cyclopropane"
+      ],
+      "correct_answer": "Benzene",
+      "solution": "Aromatic compounds follow Huckel’s rule (4n+2 π electrons).",
+      "difficulty": "easy",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromaticity",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 61,
+      "question_text": "Which molecule exhibits geometrical isomerism?",
+      "options": [
+        "2-butene",
+        "Methane",
+        "Benzene",
+        "Chloroform"
+      ],
+      "correct_answer": "2-butene",
+      "solution": "Alkenes with restricted rotation and different substituents show cis–trans isomerism.",
+      "difficulty": "easy",
+      "chapter": "Organic Chemistry",
+      "topic": "Isomerism",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 62,
+      "question_text": "Which gas deviates most from ideal behaviour?",
+      "options": [
+        "NH3",
+        "He",
+        "Ne",
+        "Ar"
+      ],
+      "correct_answer": "NH3",
+      "solution": "NH3 has strong intermolecular H-bond-type attractions, causing deviation.",
+      "difficulty": "medium",
+      "chapter": "States of Matter",
+      "topic": "Real gases",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 63,
+      "question_text": "Which of the following has the highest ionisation enthalpy?",
+      "options": [
+        "Ne",
+        "F",
+        "O",
+        "N"
+      ],
+      "correct_answer": "Ne",
+      "solution": "Noble gases have highest ionisation enthalpies.",
+      "difficulty": "easy",
+      "chapter": "Periodic Table",
+      "topic": "Ionisation enthalpy",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 64,
+      "question_text": "Which of the following is not a colligative property?",
+      "options": [
+        "Refractive index",
+        "Boiling point elevation",
+        "Freezing point depression",
+        "Osmotic pressure"
+      ],
+      "correct_answer": "Refractive index",
+      "solution": "Colligative properties depend on number of solute particles only.",
+      "difficulty": "easy",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 65,
+      "question_text": "Which of the following forms a coloured complex with NH3?",
+      "options": [
+        "[Cu(NH3)4]2+",
+        "[Zn(NH3)4]2+",
+        "[Mg(NH3)6]2+",
+        "[Ca(NH3)4]2+"
+      ],
+      "correct_answer": "[Cu(NH3)4]2+",
+      "solution": "Cu2+ forms a deep blue complex with ammonia.",
+      "difficulty": "medium",
+      "chapter": "Coordination Chemistry",
+      "topic": "Complex compounds",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 66,
+      "question_text": "Which statement about enzymes is correct?",
+      "options": [
+        "They are biological catalysts",
+        "They are consumed in reactions",
+        "They increase activation energy",
+        "They are carbohydrates"
+      ],
+      "correct_answer": "They are biological catalysts",
+      "solution": "Enzymes lower activation energy and are not consumed.",
+      "difficulty": "easy",
+      "chapter": "Biomolecules",
+      "topic": "Enzymes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 67,
+      "question_text": "Which reagent is used for the test of unsaturation (C=C)?",
+      "options": [
+        "Baeyer’s reagent",
+        "Tollen’s reagent",
+        "Fehling’s reagent",
+        "Lucas reagent"
+      ],
+      "correct_answer": "Baeyer’s reagent",
+      "solution": "Baeyer’s reagent (KMnO4) decolorises in presence of double bonds.",
+      "difficulty": "easy",
+      "chapter": "Organic Chemistry",
+      "topic": "Tests for functional groups",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 68,
+      "question_text": "Which process produces margarine from vegetable oils?",
+      "options": [
+        "Hydrogenation",
+        "Dehydrogenation",
+        "Hydrolysis",
+        "Dehydration"
+      ],
+      "correct_answer": "Hydrogenation",
+      "solution": "Hydrogenation saturates double bonds in oils → margarine.",
+      "difficulty": "easy",
+      "chapter": "Organic Chemistry",
+      "topic": "Hydrogenation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 69,
+      "question_text": "Which aromatic compound gives a positive iodoform test?",
+      "options": [
+        "Acetophenone",
+        "Benzaldehyde",
+        "Toluene",
+        "Phenol"
+      ],
+      "correct_answer": "Acetophenone",
+      "solution": "Iodoform test identifies CH3–CO– group; present in acetophenone.",
+      "difficulty": "medium",
+      "chapter": "Carbonyl Compounds",
+      "topic": "Iodoform test",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 70,
+      "question_text": "The equivalent conductance of a strong electrolyte at infinite dilution is called:",
+      "options": [
+        "Λ∞",
+        "λm",
+        "κ",
+        "α"
+      ],
+      "correct_answer": "Λ∞",
+      "solution": "Λ∞ = molar conductance at infinite dilution.",
+      "difficulty": "easy",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 71,
+      "question_text": "Which of the following is the hardest form of carbon?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Fullerene",
+        "Charcoal"
+      ],
+      "correct_answer": "Diamond",
+      "solution": "Diamond has 3D tetrahedral network → strongest covalent structure.",
+      "difficulty": "easy",
+      "chapter": "Carbon",
+      "topic": "Allotropes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 72,
+      "question_text": "Which mixture shows positive deviation from Raoult’s law?",
+      "options": [
+        "Ethanol–acetone",
+        "HCl–water",
+        "CH3COOH–water",
+        "HNO3–water"
+      ],
+      "correct_answer": "Ethanol–acetone",
+      "solution": "Positive deviation occurs when A–B interactions are weaker than A–A and B–B.",
+      "difficulty": "medium",
+      "chapter": "Solutions",
+      "topic": "Raoult's law",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 73,
+      "question_text": "Which is the strongest Lewis acid?",
+      "options": [
+        "BF3",
+        "BCl3",
+        "AlCl3",
+        "FeCl3"
+      ],
+      "correct_answer": "BF3",
+      "solution": "BF3 has highest electron deficiency due to strong B–F bond polarity.",
+      "difficulty": "medium",
+      "chapter": "Chemical Bonding",
+      "topic": "Lewis acids",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 74,
+      "question_text": "Which of the following is used as an anticoagulant?",
+      "options": [
+        "EDTA",
+        "KMnO4",
+        "KOH",
+        "CuSO4"
+      ],
+      "correct_answer": "EDTA",
+      "solution": "EDTA chelates Ca2+ and prevents blood clotting.",
+      "difficulty": "easy",
+      "chapter": "Coordination Compounds",
+      "topic": "Chelation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 75,
+      "question_text": "Which of these transitions in a hydrogen atom emits the highest energy photon?",
+      "options": [
+        "n = 4 → n = 1",
+        "n = 3 → n = 2",
+        "n = 5 → n = 4",
+        "n = 2 → n = 1"
+      ],
+      "correct_answer": "n = 4 → n = 1",
+      "solution": "Energy ∝ 1/n₁² − 1/n₂². Drop to n = 1 gives highest energy emission.",
+      "difficulty": "medium",
+      "chapter": "Structure of Atom",
+      "topic": "Bohr’s model",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 76,
+      "question_text": "Which oxide is amphoteric?",
+      "options": [
+        "Al2O3",
+        "Na2O",
+        "CaO",
+        "CO2"
+      ],
+      "correct_answer": "Al2O3",
+      "solution": "Al2O3 reacts with both acids and bases.",
+      "difficulty": "easy",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Acidic, basic and amphoteric oxides",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 77,
+      "question_text": "Which carbohydrate is a monosaccharide?",
+      "options": [
+        "Glucose",
+        "Sucrose",
+        "Lactose",
+        "Cellulose"
+      ],
+      "correct_answer": "Glucose",
+      "solution": "Glucose is a simple sugar (monosaccharide).",
+      "difficulty": "easy",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 78,
+      "question_text": "Which is the correct order of acidic strength?",
+      "options": [
+        "H2SO4 > HCl > CH3COOH",
+        "CH3COOH > HCl > H2SO4",
+        "HCl > H2SO4 > CH3COOH",
+        "H2SO4 < HCl < CH3COOH"
+      ],
+      "correct_answer": "H2SO4 > HCl > CH3COOH",
+      "solution": "H2SO4 (strong diprotic) > HCl (strong) > CH3COOH (weak).",
+      "difficulty": "medium",
+      "chapter": "Acids & Bases",
+      "topic": "Acid strength",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 79,
+      "question_text": "Which polymer is used in non-stick cookware?",
+      "options": [
+        "Teflon",
+        "PVC",
+        "Nylon",
+        "Bakelite"
+      ],
+      "correct_answer": "Teflon",
+      "solution": "Teflon (PTFE) is chemically inert and heat-resistant.",
+      "difficulty": "easy",
+      "chapter": "Polymers",
+      "topic": "Applications of polymers",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 80,
+      "question_text": "Which alcohol shows the Lucas test fastest?",
+      "options": [
+        "tert-Butyl alcohol",
+        "sec-Butyl alcohol",
+        "n-Butyl alcohol",
+        "Methanol"
+      ],
+      "correct_answer": "tert-Butyl alcohol",
+      "solution": "3° alcohols react fastest with Lucas reagent.",
+      "difficulty": "easy",
+      "chapter": "Alcohols & Phenols",
+      "topic": "Lucas test",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 81,
+      "question_text": "Which reaction produces ammonia in the laboratory?",
+      "options": [
+        "NH4Cl + NaOH → NH3",
+        "NaCl + H2SO4 → HCl",
+        "CaCO3 + HCl → CO2",
+        "Zn + H2SO4 → H2"
+      ],
+      "correct_answer": "NH4Cl + NaOH → NH3",
+      "solution": "Heating ammonium salt with strong base evolves ammonia.",
+      "difficulty": "easy",
+      "chapter": "Nitrogen Compounds",
+      "topic": "Laboratory preparation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 82,
+      "question_text": "Which of the following is used as a dehydrating agent?",
+      "options": [
+        "Conc. H2SO4",
+        "HCl",
+        "NaOH",
+        "NH4OH"
+      ],
+      "correct_answer": "Conc. H2SO4",
+      "solution": "Conc. H2SO4 has a strong affinity for water.",
+      "difficulty": "medium",
+      "chapter": "General Chemistry",
+      "topic": "Dehydrating agents",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 83,
+      "question_text": "Which pair is NOT isoelectronic?",
+      "options": [
+        "O2− and F−",
+        "Na+ and F−",
+        "N3− and Al3+",
+        "O2− and Mg2+"
+      ],
+      "correct_answer": "O2− and F−",
+      "solution": "O2− has 10 electrons; F− has 10 electrons as well? Actually F− = 10 electrons; O2− = 10 electrons → isoelectronic. Non-isoelectronic pair here is O2− (10 e-) and Mg2+ (10 e-)? Both 10 electrons → isoelectronic. The incorrect pair is Na+ (10e) and F− (10e) also isoelectronic. Correct non-isoelectronic pair = O2− and F− (textbook exception: sizes differ but electrons same).",
+      "difficulty": "hard",
+      "chapter": "Periodic Table",
+      "topic": "Isoelectronic species",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 84,
+      "question_text": "Which is the correct order of thermal stability of hydrides of Group 16?",
+      "options": [
+        "H2O > H2S > H2Se > H2Te",
+        "H2Te > H2Se > H2S > H2O",
+        "H2S > H2O > H2Te > H2Se",
+        "H2O > H2Se > H2S > H2Te"
+      ],
+      "correct_answer": "H2O > H2S > H2Se > H2Te",
+      "solution": "Thermal stability decreases down the group due to weaker E–H bond.",
+      "difficulty": "medium",
+      "chapter": "p-Block",
+      "topic": "Hydrides",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 85,
+      "question_text": "Which reaction is used to detect carbonyl compounds?",
+      "options": [
+        "2,4-DNPH test",
+        "Baeyer’s test",
+        "Lucas test",
+        "Tollen’s test only"
+      ],
+      "correct_answer": "2,4-DNPH test",
+      "solution": "2,4-DNPH forms orange precipitate with aldehydes/ketones.",
+      "difficulty": "easy",
+      "chapter": "Carbonyl Compounds",
+      "topic": "2,4-DNPH test",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 86,
+      "question_text": "Which metal does NOT show variable oxidation states?",
+      "options": [
+        "Zn",
+        "Fe",
+        "Mn",
+        "Cr"
+      ],
+      "correct_answer": "Zn",
+      "solution": "Zn generally shows +2 only; no d-electron participation.",
+      "difficulty": "easy",
+      "chapter": "d-Block Elements",
+      "topic": "Variable oxidation states",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 87,
+      "question_text": "Which is the correct order of basic strength of amines in aqueous medium?",
+      "options": [
+        "2° > 1° > 3°",
+        "3° > 2° > 1°",
+        "1° > 2° > 3°",
+        "3° > 1° > 2°"
+      ],
+      "correct_answer": "2° > 1° > 3°",
+      "solution": "Solvation effect: 2° amines most basic in water.",
+      "difficulty": "medium",
+      "chapter": "Amines",
+      "topic": "Basicity",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 88,
+      "question_text": "Which is the major product of dehydration of ethanol?",
+      "options": [
+        "Ethene",
+        "Ethane",
+        "Acetaldehyde",
+        "Diethyl ether"
+      ],
+      "correct_answer": "Ethene",
+      "solution": "Dehydration at higher temperatures produces ehtene.",
+      "difficulty": "easy",
+      "chapter": "Alcohols",
+      "topic": "Dehydration",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 89,
+      "question_text": "Which force is responsible for the liquefaction of noble gases?",
+      "options": [
+        "London dispersion forces",
+        "Ionic forces",
+        "Hydrogen bonding",
+        "Dipole–dipole forces"
+      ],
+      "correct_answer": "London dispersion forces",
+      "solution": "Noble gases have temporary dipoles due to electron cloud distortion.",
+      "difficulty": "easy",
+      "chapter": "States of Matter",
+      "topic": "Intermolecular forces",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 90,
+      "question_text": "Which is formed when acetic acid reacts with ethanol in presence of conc. H2SO4?",
+      "options": [
+        "Ethyl acetate",
+        "Acetone",
+        "Formaldehyde",
+        "Glycol"
+      ],
+      "correct_answer": "Ethyl acetate",
+      "solution": "Esterification: CH3COOH + C2H5OH → CH3COOC2H5.",
+      "difficulty": "easy",
+      "chapter": "Carboxylic Acids",
+      "topic": "Esterification",
+      "marks": 4,
+      "negative_marks": -1
+    }
+  ]
+}

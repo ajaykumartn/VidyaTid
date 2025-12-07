@@ -1,0 +1,63 @@
+# VidyaTid - Render Environment Variables
+# Copy these to Render Dashboard when creating your web service
+
+# ============================================
+# REQUIRED VARIABLES
+# ============================================
+
+# 1. Gemini API Keys (comma-separated)
+GEMINI_API_KEYS=AIzaSyBc7CqQyDnxg8qHeZ2pm4yQMBHsKzHYBRk,AIzaSyAQLfGMy19IDO2iNmz0aQA4B6nEmfo1ESw
+
+# 2. Use Gemini Flag
+USE_GEMINI=true
+
+# 3. Cloudflare Account ID
+CLOUDFLARE_ACCOUNT_ID=your_cloudflare_account_id_here
+
+# 4. Cloudflare API Token
+CLOUDFLARE_API_TOKEN=your_cloudflare_api_token_here
+
+# 5. Use Cloudflare AI Flag
+USE_CLOUDFLARE_AI=true
+
+# 6. ElevenLabs API Key
+ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+
+# 7. Secret Key (generate a random string)
+SECRET_KEY=your-super-secret-key-change-this-in-production-12345
+
+# 8. Render Flag (for config detection)
+RENDER=true
+
+# 9. Python Version
+PYTHON_VERSION=3.11.0
+
+# ============================================
+# OPTIONAL VARIABLES (for payments)
+# ============================================
+
+# Razorpay Key ID (if using payments)
+# RAZORPAY_KEY_ID=your_razorpay_key_id
+
+# Razorpay Key Secret (if using payments)
+# RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+
+# ============================================
+# INSTRUCTIONS
+# ============================================
+
+# 1. Copy your actual values from .env file
+# 2. In Render Dashboard, go to "Environment" section
+# 3. Click "Add Environment Variable" for each one
+# 4. Paste the Key and Value
+# 5. Make sure to use exact key names (case-sensitive)
+
+# ============================================
+# IMPORTANT NOTES
+# ============================================
+
+# - DO NOT commit this file with real values to Git
+# - Keep your API keys secret
+# - Generate a strong SECRET_KEY for production
+# - Cloudflare and ElevenLabs keys are optional but recommended
+# - Gemini API keys are REQUIRED for AI features

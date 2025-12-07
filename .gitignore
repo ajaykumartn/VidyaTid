@@ -2,15 +2,80 @@
 venv/
 *.venv
 env/
+.venv/
 
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 
 # Environment variables
 .env
+.env.local
 
 # IDE and OS files
 .idea/
 .vscode/
 *.DS_Store
+*.swp
+*.swo
+*~
+
+# Database files
+# *.db  # Commented out to include guruai.db and diagrams.db for deployment
+# *.sqlite
+# *.sqlite3
+
+# But exclude these specific databases (if any)
+# test.db
+# temp.db
+
+# AI Models (large files)
+models/*.bin
+models/*.gguf
+models/*.pt
+models/*.pth
+
+# Vector Store Data - INCLUDED for full functionality
+# chroma_db/ - INCLUDED
+# vector_store/ - INCLUDED
+
+# NCERT Content - INCLUDED for full functionality
+# ncert_content/ - INCLUDED
+# diagrams/ - INCLUDED
+# previous_papers/ - INCLUDED
+
+# Exclude only very large video files (keep everything else)
+# Large video files (generated videos can be recreated)
+generated_videos/**/*.mp4
+generated_videos/**/*.avi
+generated_videos/**/*.mov
+explainer_*.mp4
+
+# But keep small files and folder structure
+!generated_videos/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# User data
+user_data/
+progress_data/

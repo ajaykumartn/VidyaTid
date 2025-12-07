@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: vidyatid
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python start_app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: USE_GEMINI
+        value: true
+      - key: USE_CLOUDFLARE_AI
+        value: true
+      - key: RENDER
+        value: true
+    # Environment variables to be set in Render Dashboard:
+    # - GEMINI_API_KEYS (your comma-separated keys)
+    # - CLOUDFLARE_ACCOUNT_ID
+    # - CLOUDFLARE_API_TOKEN
+    # - ELEVENLABS_API_KEY
+    # - SECRET_KEY (generate a random string)

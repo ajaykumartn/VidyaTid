@@ -1,0 +1,1651 @@
+{
+  "paper_info": {
+    "exam_type": "NEET",
+    "year": 2026,
+    "subject": "Biology"
+  },
+  "questions": [
+    {
+      "question_number": 91,
+      "question_text": "Which of the following is a C4 plant?",
+      "options": [
+        "Maize",
+        "Rice",
+        "Wheat",
+        "Gram"
+      ],
+      "correct_answer": "Maize",
+      "solution": "C4 plants such as maize have Kranz anatomy and PEP carboxylase enzyme.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Photosynthesis",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 92,
+      "question_text": "In which part of the root does most absorption of water occur?",
+      "options": [
+        "Root hair zone",
+        "Meristematic zone",
+        "Elongation zone",
+        "Root cap"
+      ],
+      "correct_answer": "Root hair zone",
+      "solution": "Root hairs increase absorptive surface area, allowing maximum water uptake.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Transport in Plants",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 93,
+      "question_text": "Which plant hormone delays leaf senescence?",
+      "options": [
+        "Cytokinin",
+        "Ethylene",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "correct_answer": "Cytokinin",
+      "solution": "Cytokinins promote cell division and delay aging processes.",
+      "difficulty": "easy",
+      "chapter": "Plant Growth",
+      "topic": "Plant hormones",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 94,
+      "question_text": "Double fertilisation in angiosperms involves fusion of:",
+      "options": [
+        "One male gamete with egg and another with polar nuclei",
+        "Two male gametes with two eggs",
+        "Male gamete with antipodal cells",
+        "Male gamete with synergids"
+      ],
+      "correct_answer": "One male gamete with egg and another with polar nuclei",
+      "solution": "Double fertilisation forms zygote and triploid endosperm.",
+      "difficulty": "easy",
+      "chapter": "Plant Reproduction",
+      "topic": "Double fertilisation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 95,
+      "question_text": "Which of the following is an example of a symbiotic nitrogen-fixing bacterium?",
+      "options": [
+        "Rhizobium",
+        "Azotobacter",
+        "Clostridium",
+        "Nitrosomonas"
+      ],
+      "correct_answer": "Rhizobium",
+      "solution": "Rhizobium lives in root nodules of legumes and fixes nitrogen.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Nitrogen cycle",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 96,
+      "question_text": "Which tissue is responsible for the secondary growth of plants?",
+      "options": [
+        "Vascular cambium",
+        "Xylem",
+        "Phloem",
+        "Pith"
+      ],
+      "correct_answer": "Vascular cambium",
+      "solution": "Vascular cambium produces secondary xylem and phloem.",
+      "difficulty": "medium",
+      "chapter": "Plant Anatomy",
+      "topic": "Secondary growth",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 97,
+      "question_text": "Which structure in chloroplast contains the photosystems?",
+      "options": [
+        "Thylakoid membrane",
+        "Stroma",
+        "Outer membrane",
+        "Intermembrane space"
+      ],
+      "correct_answer": "Thylakoid membrane",
+      "solution": "Thylakoids house PS-II and PS-I used in light reactions.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Photosynthesis structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 98,
+      "question_text": "Which of the following is a micronutrient?",
+      "options": [
+        "Iron (Fe)",
+        "Potassium (K)",
+        "Nitrogen (N)",
+        "Magnesium (Mg)"
+      ],
+      "correct_answer": "Iron (Fe)",
+      "solution": "Micronutrients are required in small amounts. Fe is essential for chlorophyll synthesis.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Mineral nutrition",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 99,
+      "question_text": "Which plant division lacks vascular tissues?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "correct_answer": "Bryophytes",
+      "solution": "Bryophytes are non-vascular plants and require water for fertilisation.",
+      "difficulty": "easy",
+      "chapter": "Plant Diversity",
+      "topic": "Bryophytes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 100,
+      "question_text": "Which of the following is a xerophyte adaptation?",
+      "options": [
+        "Sunken stomata",
+        "Large leaves",
+        "Thin cuticle",
+        "High stomatal density"
+      ],
+      "correct_answer": "Sunken stomata",
+      "solution": "Xerophytes reduce transpiration using sunken stomata and thick cuticle.",
+      "difficulty": "medium",
+      "chapter": "Plant Ecology",
+      "topic": "Adaptations",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 101,
+      "question_text": "During photorespiration, which organelle is NOT directly involved?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Peroxisome",
+        "Golgi body"
+      ],
+      "correct_answer": "Golgi body",
+      "solution": "Photorespiration occurs across chloroplast, peroxisome, and mitochondria.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Photorespiration",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 102,
+      "question_text": "Casparian strips are found in:",
+      "options": [
+        "Endodermis",
+        "Cortex",
+        "Epidermis",
+        "Pericycle"
+      ],
+      "correct_answer": "Endodermis",
+      "solution": "Suberin-rich Casparian strips control entry of substances into xylem.",
+      "difficulty": "medium",
+      "chapter": "Plant Anatomy",
+      "topic": "Root structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 103,
+      "question_text": "Which of the following is an example of apomixis?",
+      "options": [
+        "Formation of embryos without fertilisation",
+        "Fusion of male and female gametes",
+        "Vegetative propagation using stem",
+        "Seed formation after pollination"
+      ],
+      "correct_answer": "Formation of embryos without fertilisation",
+      "solution": "Apomixis forms seeds without meiosis and fertilisation.",
+      "difficulty": "medium",
+      "chapter": "Plant Reproduction",
+      "topic": "Apomixis",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 104,
+      "question_text": "Which RNA acts as an adapter molecule during protein synthesis?",
+      "options": [
+        "tRNA",
+        "mRNA",
+        "rRNA",
+        "siRNA"
+      ],
+      "correct_answer": "tRNA",
+      "solution": "tRNA carries amino acids to ribosome during translation.",
+      "difficulty": "easy",
+      "chapter": "Genetics",
+      "topic": "Translation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 105,
+      "question_text": "Which plant exhibits CAM photosynthesis?",
+      "options": [
+        "Opuntia",
+        "Rice",
+        "Wheat",
+        "Sugarcane"
+      ],
+      "correct_answer": "Opuntia",
+      "solution": "CAM plants open stomata at night to minimise water loss.",
+      "difficulty": "medium",
+      "chapter": "Plant Physiology",
+      "topic": "CAM pathway",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 106,
+      "question_text": "Which is a non-reducing sugar?",
+      "options": [
+        "Sucrose",
+        "Glucose",
+        "Fructose",
+        "Lactose"
+      ],
+      "correct_answer": "Sucrose",
+      "solution": "Sucrose lacks a free aldehydic or ketonic group.",
+      "difficulty": "easy",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 107,
+      "question_text": "Which plant tissue is dead at maturity?",
+      "options": [
+        "Xylem vessels",
+        "Phloem sieve tubes",
+        "Companion cells",
+        "Cambium"
+      ],
+      "correct_answer": "Xylem vessels",
+      "solution": "Xylem conducts water and is made up of dead lignified cells.",
+      "difficulty": "easy",
+      "chapter": "Plant Anatomy",
+      "topic": "Xylem",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 108,
+      "question_text": "Which is the longest phase of the cell cycle?",
+      "options": [
+        "Interphase",
+        "M phase",
+        "Cytokinesis",
+        "Prophase"
+      ],
+      "correct_answer": "Interphase",
+      "solution": "Interphase includes G1, S, G2 phases, longest in duration.",
+      "difficulty": "easy",
+      "chapter": "Cell Cycle",
+      "topic": "Phases",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 109,
+      "question_text": "Where does glycolysis occur?",
+      "options": [
+        "Cytoplasm",
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "correct_answer": "Cytoplasm",
+      "solution": "Glycolysis occurs in cytosol and produces pyruvate.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Respiration",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 110,
+      "question_text": "Which polymer is present in plant cell walls?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Glycogen",
+        "Peptidoglycan"
+      ],
+      "correct_answer": "Cellulose",
+      "solution": "Cellulose is a β-1,4-linked polysaccharide forming plant cell wall.",
+      "difficulty": "easy",
+      "chapter": "Plant Anatomy",
+      "topic": "Cell wall",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 111,
+      "question_text": "Which organism reproduces via fragmentation?",
+      "options": [
+        "Spirogyra",
+        "Hydra",
+        "Amoeba",
+        "Plasmodium"
+      ],
+      "correct_answer": "Spirogyra",
+      "solution": "Filamentous algae like Spirogyra break into fragments that grow.",
+      "difficulty": "easy",
+      "chapter": "Reproduction",
+      "topic": "Asexual reproduction",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 112,
+      "question_text": "Which is an example of an insect-pollinated flower?",
+      "options": [
+        "Sunflower",
+        "Maize",
+        "Wheat",
+        "Rice"
+      ],
+      "correct_answer": "Sunflower",
+      "solution": "Bright coloured flowers attract insects for pollination.",
+      "difficulty": "easy",
+      "chapter": "Plant Reproduction",
+      "topic": "Pollination",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 113,
+      "question_text": "Which plant hormone promotes seed dormancy?",
+      "options": [
+        "Abscisic acid",
+        "Gibberellin",
+        "Auxin",
+        "Cytokinin"
+      ],
+      "correct_answer": "Abscisic acid",
+      "solution": "ABA induces dormancy and inhibits germination.",
+      "difficulty": "easy",
+      "chapter": "Plant Growth",
+      "topic": "ABA",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 114,
+      "question_text": "Which part of the ovule develops into the seed coat?",
+      "options": [
+        "Integuments",
+        "Nucellus",
+        "Embryo",
+        "Endosperm"
+      ],
+      "correct_answer": "Integuments",
+      "solution": "Integuments harden to form seed coat.",
+      "difficulty": "easy",
+      "chapter": "Plant Reproduction",
+      "topic": "Seed formation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 115,
+      "question_text": "Which structure stores food in monocot seeds?",
+      "options": [
+        "Endosperm",
+        "Cotyledon",
+        "Radicle",
+        "Plumule"
+      ],
+      "correct_answer": "Endosperm",
+      "solution": "Monocots have large endosperm for nutrition.",
+      "difficulty": "easy",
+      "chapter": "Plant Reproduction",
+      "topic": "Seed structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 116,
+      "question_text": "Which pigment is essential for photoperiodism?",
+      "options": [
+        "Phytochrome",
+        "Chlorophyll a",
+        "Carotenoids",
+        "Zeaxanthin"
+      ],
+      "correct_answer": "Phytochrome",
+      "solution": "Phytochrome detects red and far-red light controlling flowering.",
+      "difficulty": "medium",
+      "chapter": "Plant Physiology",
+      "topic": "Photoperiodism",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 117,
+      "question_text": "Which enzyme is responsible for CO2 fixation in Calvin cycle?",
+      "options": [
+        "RuBisCO",
+        "PEP carboxylase",
+        "ATP synthase",
+        "Nitrate reductase"
+      ],
+      "correct_answer": "RuBisCO",
+      "solution": "RuBisCO catalyses carboxylation of RuBP.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Calvin cycle",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 118,
+      "question_text": "Which of the following is NOT an example of a parasitic plant?",
+      "options": [
+        "Hydrilla",
+        "Cuscuta",
+        "Viscum",
+        "Rafflesia"
+      ],
+      "correct_answer": "Hydrilla",
+      "solution": "Hydrilla is an autotrophic aquatic plant.",
+      "difficulty": "easy",
+      "chapter": "Plant Ecology",
+      "topic": "Parasitism",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 119,
+      "question_text": "Which of the following is an example of water-pollinated plant?",
+      "options": [
+        "Vallisneria",
+        "Sunflower",
+        "Maize",
+        "Wheat"
+      ],
+      "correct_answer": "Vallisneria",
+      "solution": "Vallisneria shows hydrophily (water pollination).",
+      "difficulty": "medium",
+      "chapter": "Plant Reproduction",
+      "topic": "Pollination types",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 120,
+      "question_text": "Which structure transports sugars in plants?",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Cortex",
+        "Pith"
+      ],
+      "correct_answer": "Phloem",
+      "solution": "Phloem transports sucrose through pressure-flow mechanism.",
+      "difficulty": "easy",
+      "chapter": "Plant Physiology",
+      "topic": "Translocation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 121,
+      "question_text": "Which of the following has a true coelom?",
+      "options": [
+        "Earthworm",
+        "Flatworm",
+        "Nematode",
+        "Hydra"
+      ],
+      "correct_answer": "Earthworm",
+      "solution": "Annelids (earthworms) possess a true coelom lined by mesoderm.",
+      "difficulty": "easy",
+      "chapter": "Animal Kingdom",
+      "topic": "Body cavities",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 122,
+      "question_text": "Which protein is present in human hair and nails?",
+      "options": [
+        "Keratin",
+        "Collagen",
+        "Elastin",
+        "Myosin"
+      ],
+      "correct_answer": "Keratin",
+      "solution": "Keratin is a structural protein forming hair, nails, feathers.",
+      "difficulty": "easy",
+      "chapter": "Structural Organisation",
+      "topic": "Proteins",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 123,
+      "question_text": "Which gland secretes melatonin?",
+      "options": [
+        "Pineal gland",
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal gland"
+      ],
+      "correct_answer": "Pineal gland",
+      "solution": "Melatonin regulates circadian rhythms.",
+      "difficulty": "easy",
+      "chapter": "Endocrine System",
+      "topic": "Hormones",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 124,
+      "question_text": "Which blood group is known as universal donor?",
+      "options": [
+        "O−",
+        "AB+",
+        "O+",
+        "AB−"
+      ],
+      "correct_answer": "O−",
+      "solution": "O− lacks A, B and Rh antigens, so compatible with all recipients.",
+      "difficulty": "easy",
+      "chapter": "Human Physiology",
+      "topic": "Blood groups",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 125,
+      "question_text": "Which organelle is responsible for ATP production?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "correct_answer": "Mitochondria",
+      "solution": "Mitochondria are the powerhouse of the cell.",
+      "difficulty": "easy",
+      "chapter": "Cell Biology",
+      "topic": "Cell organelles",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 126,
+      "question_text": "Which disorder is caused by the absence of clotting factor VIII?",
+      "options": [
+        "Haemophilia A",
+        "Thalassemia",
+        "Sickle cell anaemia",
+        "Leukaemia"
+      ],
+      "correct_answer": "Haemophilia A",
+      "solution": "Haemophilia A is X-linked and due to deficiency of factor VIII.",
+      "difficulty": "medium",
+      "chapter": "Genetics",
+      "topic": "Genetic disorders",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 127,
+      "question_text": "Which of the following prevents backflow of blood?",
+      "options": [
+        "Valves",
+        "Arteries",
+        "Veins",
+        "Capillaries"
+      ],
+      "correct_answer": "Valves",
+      "solution": "Valves in heart ensure unidirectional blood flow.",
+      "difficulty": "easy",
+      "chapter": "Circulatory System",
+      "topic": "Heart",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 128,
+      "question_text": "Which part of the brain controls respiration?",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Hypothalamus",
+        "Cerebrum"
+      ],
+      "correct_answer": "Medulla oblongata",
+      "solution": "Medulla regulates involuntary functions like breathing.",
+      "difficulty": "easy",
+      "chapter": "Neural Control",
+      "topic": "Brain functions",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 129,
+      "question_text": "Which is the primary site of protein digestion?",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Large intestine",
+        "Rectum"
+      ],
+      "correct_answer": "Stomach",
+      "solution": "Pepsin in stomach begins protein digestion.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Protein digestion",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 130,
+      "question_text": "Which cells produce antibodies?",
+      "options": [
+        "B-lymphocytes",
+        "T-lymphocytes",
+        "Macrophages",
+        "Neutrophils"
+      ],
+      "correct_answer": "B-lymphocytes",
+      "solution": "B cells differentiate into plasma cells that secrete antibodies.",
+      "difficulty": "easy",
+      "chapter": "Immune System",
+      "topic": "Antibody production",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 131,
+      "question_text": "Which part of the nephron is mainly responsible for selective reabsorption?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Bowman's capsule",
+        "Loop of Henle",
+        "Collecting duct"
+      ],
+      "correct_answer": "Proximal convoluted tubule",
+      "solution": "PCT reabsorbs glucose, amino acids, ions and water.",
+      "difficulty": "medium",
+      "chapter": "Excretion",
+      "topic": "Kidney structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 132,
+      "question_text": "Which hormone controls BMR (basal metabolic rate)?",
+      "options": [
+        "Thyroxine",
+        "Insulin",
+        "Cortisol",
+        "Adrenaline"
+      ],
+      "correct_answer": "Thyroxine",
+      "solution": "Thyroxine increases metabolic rate and oxygen consumption.",
+      "difficulty": "easy",
+      "chapter": "Endocrine System",
+      "topic": "Thyroid hormone",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 133,
+      "question_text": "Which of the following is an example of exoskeleton?",
+      "options": [
+        "Chitin in arthropods",
+        "Bones",
+        "Cartilage",
+        "Ligaments"
+      ],
+      "correct_answer": "Chitin in arthropods",
+      "solution": "Arthropods have external skeleton made of chitin.",
+      "difficulty": "easy",
+      "chapter": "Structural Organisation",
+      "topic": "Skeleton",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 134,
+      "question_text": "Which vitamin deficiency causes night blindness?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correct_answer": "Vitamin A",
+      "solution": "Vitamin A is required for formation of visual pigment rhodopsin.",
+      "difficulty": "easy",
+      "chapter": "Human Physiology",
+      "topic": "Vitamins",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 135,
+      "question_text": "Which is a vector-borne disease?",
+      "options": [
+        "Malaria",
+        "Tuberculosis",
+        "Hepatitis B",
+        "Measles"
+      ],
+      "correct_answer": "Malaria",
+      "solution": "Malaria is transmitted by female Anopheles mosquito.",
+      "difficulty": "easy",
+      "chapter": "Human Health & Disease",
+      "topic": "Infectious diseases",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 136,
+      "question_text": "Which of the following is the structural and functional unit of nervous system?",
+      "options": [
+        "Neuron",
+        "Axon",
+        "Dendrite",
+        "Ganglion"
+      ],
+      "correct_answer": "Neuron",
+      "solution": "Neurons conduct impulses, forming basic neural circuits.",
+      "difficulty": "easy",
+      "chapter": "Neural Control",
+      "topic": "Neurons",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 137,
+      "question_text": "Which blood vessel carries oxygen-rich blood from lungs to heart?",
+      "options": [
+        "Pulmonary vein",
+        "Pulmonary artery",
+        "Aorta",
+        "Vena cava"
+      ],
+      "correct_answer": "Pulmonary vein",
+      "solution": "Pulmonary veins carry oxygenated blood from lungs to left atrium.",
+      "difficulty": "easy",
+      "chapter": "Circulatory System",
+      "topic": "Blood vessels",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 138,
+      "question_text": "The functional unit of the liver is called:",
+      "options": [
+        "Lobule",
+        "Nephridia",
+        "Osteon",
+        "Alveolus"
+      ],
+      "correct_answer": "Lobule",
+      "solution": "Liver lobules are hexagonal functional units.",
+      "difficulty": "medium",
+      "chapter": "Human Physiology",
+      "topic": "Liver",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 139,
+      "question_text": "Which hormone regulates blood calcium levels?",
+      "options": [
+        "Parathyroid hormone",
+        "Insulin",
+        "Aldosterone",
+        "Melatonin"
+      ],
+      "correct_answer": "Parathyroid hormone",
+      "solution": "PTH increases blood Ca2+ by bone resorption and kidney reabsorption.",
+      "difficulty": "medium",
+      "chapter": "Endocrine System",
+      "topic": "Calcium regulation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 140,
+      "question_text": "Which muscle is involuntary and striated?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Striped voluntary muscle"
+      ],
+      "correct_answer": "Cardiac muscle",
+      "solution": "Cardiac muscle is involuntary but has striations.",
+      "difficulty": "easy",
+      "chapter": "Structural Organisation",
+      "topic": "Muscle types",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 141,
+      "question_text": "Which part of the brain controls hunger and thirst?",
+      "options": [
+        "Hypothalamus",
+        "Cerebrum",
+        "Cerebellum",
+        "Pons"
+      ],
+      "correct_answer": "Hypothalamus",
+      "solution": "Hypothalamus regulates temperature, hunger, thirst, and emotions.",
+      "difficulty": "easy",
+      "chapter": "Neural Control",
+      "topic": "Hypothalamus",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 142,
+      "question_text": "Which organism is the cause of AIDS?",
+      "options": [
+        "HIV",
+        "HBV",
+        "Polio virus",
+        "Influenza virus"
+      ],
+      "correct_answer": "HIV",
+      "solution": "HIV attacks CD4+ T cells leading to AIDS.",
+      "difficulty": "easy",
+      "chapter": "Human Health",
+      "topic": "Viral diseases",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 143,
+      "question_text": "Which of the following is NOT an accessory digestive gland?",
+      "options": [
+        "Spleen",
+        "Pancreas",
+        "Liver",
+        "Salivary gland"
+      ],
+      "correct_answer": "Spleen",
+      "solution": "Spleen belongs to lymphatic system, not digestive.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Digestive glands",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 144,
+      "question_text": "Which organ stores bile?",
+      "options": [
+        "Gall bladder",
+        "Small intestine",
+        "Pancreas",
+        "Stomach"
+      ],
+      "correct_answer": "Gall bladder",
+      "solution": "Gall bladder stores bile produced by liver.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Bile storage",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 145,
+      "question_text": "Which hormone stimulates ovulation?",
+      "options": [
+        "LH",
+        "FSH",
+        "Progesterone",
+        "Oxytocin"
+      ],
+      "correct_answer": "LH",
+      "solution": "LH surge triggers ovulation.",
+      "difficulty": "medium",
+      "chapter": "Reproduction",
+      "topic": "Hormonal regulation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 146,
+      "question_text": "Which process forms haploid gametes?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "correct_answer": "Meiosis",
+      "solution": "Meiosis reduces chromosome number to form haploid gametes.",
+      "difficulty": "easy",
+      "chapter": "Genetics",
+      "topic": "Meiosis",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 147,
+      "question_text": "Which immunoglobulin is found in colostrum?",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgM",
+        "IgE"
+      ],
+      "correct_answer": "IgA",
+      "solution": "IgA provides passive immunity to infants.",
+      "difficulty": "medium",
+      "chapter": "Immunity",
+      "topic": "Antibodies",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 148,
+      "question_text": "Which is the functional unit of the kidney?",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Lobule",
+        "Alveolus"
+      ],
+      "correct_answer": "Nephron",
+      "solution": "Nephron filters blood and forms urine.",
+      "difficulty": "easy",
+      "chapter": "Excretion",
+      "topic": "Kidney",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 149,
+      "question_text": "Which blood component helps in clotting?",
+      "options": [
+        "Platelets",
+        "RBCs",
+        "WBCs",
+        "Plasma proteins only"
+      ],
+      "correct_answer": "Platelets",
+      "solution": "Platelets release thromboplastin initiating clotting.",
+      "difficulty": "easy",
+      "chapter": "Circulation",
+      "topic": "Blood clotting",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 150,
+      "question_text": "Which type of joint is found between atlas and axis?",
+      "options": [
+        "Pivot joint",
+        "Hinge joint",
+        "Ball and socket",
+        "Fibrous joint"
+      ],
+      "correct_answer": "Pivot joint",
+      "solution": "Pivot joint allows rotation of head.",
+      "difficulty": "medium",
+      "chapter": "Locomotion",
+      "topic": "Joints",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 151,
+      "question_text": "Which of the following carries genetic information?",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "Lipids"
+      ],
+      "correct_answer": "DNA",
+      "solution": "DNA stores hereditary information.",
+      "difficulty": "easy",
+      "chapter": "Genetics",
+      "topic": "DNA structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 152,
+      "question_text": "Which tissue transports water in animals?",
+      "options": [
+        "Blood",
+        "Lymph",
+        "Nerve cells",
+        "Epithelial tissue"
+      ],
+      "correct_answer": "Blood",
+      "solution": "Blood transports water, nutrients, and gases.",
+      "difficulty": "easy",
+      "chapter": "Body Fluids",
+      "topic": "Transport",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 153,
+      "question_text": "Which vitamin is produced in the skin upon sunlight exposure?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "correct_answer": "Vitamin D",
+      "solution": "UV light converts cholesterol into Vitamin D.",
+      "difficulty": "easy",
+      "chapter": "Human Physiology",
+      "topic": "Vitamins",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 154,
+      "question_text": "The exchange of gases in lungs occurs through:",
+      "options": [
+        "Alveoli",
+        "Bronchi",
+        "Trachea",
+        "Nasal cavity"
+      ],
+      "correct_answer": "Alveoli",
+      "solution": "Alveoli have thin walls and large surface area for gas exchange.",
+      "difficulty": "easy",
+      "chapter": "Respiration",
+      "topic": "Gas exchange",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 155,
+      "question_text": "Which gland secretes insulin?",
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Adrenal",
+        "Pituitary"
+      ],
+      "correct_answer": "Pancreas",
+      "solution": "Beta cells of pancreas release insulin.",
+      "difficulty": "easy",
+      "chapter": "Endocrine System",
+      "topic": "Insulin",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 156,
+      "question_text": "Which structure conducts impulses away from the neuron cell body?",
+      "options": [
+        "Axon",
+        "Dendrite",
+        "Synapse",
+        "Node of Ranvier"
+      ],
+      "correct_answer": "Axon",
+      "solution": "Axons carry impulses away from soma to terminals.",
+      "difficulty": "easy",
+      "chapter": "Neural Control",
+      "topic": "Neuron structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 157,
+      "question_text": "Which enzyme digests starch?",
+      "options": [
+        "Amylase",
+        "Lipase",
+        "Trypsin",
+        "Pepsin"
+      ],
+      "correct_answer": "Amylase",
+      "solution": "Amylase breaks starch to maltose.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Enzymes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 158,
+      "question_text": "Which hormone causes milk ejection in mothers?",
+      "options": [
+        "Oxytocin",
+        "Prolactin",
+        "Estrogen",
+        "FSH"
+      ],
+      "correct_answer": "Oxytocin",
+      "solution": "Oxytocin contracts mammary ducts causing milk let-down.",
+      "difficulty": "medium",
+      "chapter": "Reproduction",
+      "topic": "Hormones",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 159,
+      "question_text": "Which of the following is a sexually transmitted infection?",
+      "options": [
+        "Gonorrhea",
+        "Typhoid",
+        "Cholera",
+        "Dengue"
+      ],
+      "correct_answer": "Gonorrhea",
+      "solution": "Gonorrhea is caused by Neisseria gonorrhoeae.",
+      "difficulty": "easy",
+      "chapter": "Human Health",
+      "topic": "STDs",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 160,
+      "question_text": "Which structure in sperm contains enzymes for penetrating the egg?",
+      "options": [
+        "Acrosome",
+        "Head",
+        "Tail",
+        "Midpiece"
+      ],
+      "correct_answer": "Acrosome",
+      "solution": "Acrosome has hydrolytic enzymes for fertilisation.",
+      "difficulty": "easy",
+      "chapter": "Reproduction",
+      "topic": "Gametes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 161,
+      "question_text": "Which blood vessel carries blood from digestive organs to liver?",
+      "options": [
+        "Hepatic portal vein",
+        "Pulmonary vein",
+        "Aorta",
+        "Renal artery"
+      ],
+      "correct_answer": "Hepatic portal vein",
+      "solution": "Portal vein transports nutrient-rich blood to liver.",
+      "difficulty": "medium",
+      "chapter": "Circulation",
+      "topic": "Portal system",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 162,
+      "question_text": "Which part of the ear helps in maintaining body balance?",
+      "options": [
+        "Semicircular canals",
+        "Cochlea",
+        "Eustachian tube",
+        "Tympanum"
+      ],
+      "correct_answer": "Semicircular canals",
+      "solution": "They detect rotational movement and help balance.",
+      "difficulty": "medium",
+      "chapter": "Neural Control",
+      "topic": "Ear structure",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 163,
+      "question_text": "Which phenotype is expressed in heterozygote for complete dominance?",
+      "options": [
+        "Dominant",
+        "Recessive",
+        "Intermediate",
+        "None"
+      ],
+      "correct_answer": "Dominant",
+      "solution": "Dominant allele masks recessive expression.",
+      "difficulty": "easy",
+      "chapter": "Genetics",
+      "topic": "Dominance",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 164,
+      "question_text": "Which disease is associated with insulin deficiency?",
+      "options": [
+        "Diabetes mellitus",
+        "Goitre",
+        "Kwashiorkor",
+        "Anaemia"
+      ],
+      "correct_answer": "Diabetes mellitus",
+      "solution": "Low insulin prevents glucose uptake.",
+      "difficulty": "easy",
+      "chapter": "Endocrine System",
+      "topic": "Diabetes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 165,
+      "question_text": "Which organism is used in bakery and alcohol industries?",
+      "options": [
+        "Yeast",
+        "Rhizopus",
+        "Penicillium",
+        "Lactobacillus"
+      ],
+      "correct_answer": "Yeast",
+      "solution": "Yeast ferments sugars to ethanol and CO2.",
+      "difficulty": "easy",
+      "chapter": "Microbes",
+      "topic": "Industrial use",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 166,
+      "question_text": "Which chromosome carries the gene for haemophilia?",
+      "options": [
+        "X chromosome",
+        "Y chromosome",
+        "Autosome 1",
+        "Autosome 21"
+      ],
+      "correct_answer": "X chromosome",
+      "solution": "Haemophilia is X-linked recessive.",
+      "difficulty": "medium",
+      "chapter": "Genetics",
+      "topic": "Sex-linked inheritance",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 167,
+      "question_text": "Which organ secretes bile?",
+      "options": [
+        "Liver",
+        "Gall bladder",
+        "Pancreas",
+        "Stomach"
+      ],
+      "correct_answer": "Liver",
+      "solution": "Liver produces bile; gall bladder stores it.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Bile",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 168,
+      "question_text": "Which of the following is NOT a connective tissue?",
+      "options": [
+        "Nervous tissue",
+        "Blood",
+        "Bone",
+        "Tendon"
+      ],
+      "correct_answer": "Nervous tissue",
+      "solution": "Nervous tissue transmits impulses; not connective.",
+      "difficulty": "easy",
+      "chapter": "Structural Organisation",
+      "topic": "Tissues",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 169,
+      "question_text": "Which structure produces sperm in humans?",
+      "options": [
+        "Seminiferous tubules",
+        "Vas deferens",
+        "Prostate gland",
+        "Epididymis"
+      ],
+      "correct_answer": "Seminiferous tubules",
+      "solution": "Spermatogenesis occurs in seminiferous tubules.",
+      "difficulty": "medium",
+      "chapter": "Reproduction",
+      "topic": "Male reproductive system",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 170,
+      "question_text": "Which organ is affected in jaundice?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Heart",
+        "Brain"
+      ],
+      "correct_answer": "Liver",
+      "solution": "Bilirubin accumulation causes jaundice.",
+      "difficulty": "easy",
+      "chapter": "Human Health",
+      "topic": "Liver disorders",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+
+    {
+      "question_number": 171,
+      "question_text": "Which of the following is the largest organ in the human body?",
+      "options": [
+        "Skin",
+        "Liver",
+        "Brain",
+        "Heart"
+      ],
+      "correct_answer": "Skin",
+      "solution": "Skin covers the entire body and provides protection.",
+      "difficulty": "easy",
+      "chapter": "Human Physiology",
+      "topic": "Integumentary system",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 172,
+      "question_text": "Which enzyme breaks down lactose?",
+      "options": [
+        "Lactase",
+        "Amylase",
+        "Pepsin",
+        "Lipase"
+      ],
+      "correct_answer": "Lactase",
+      "solution": "Lactase splits lactose into glucose and galactose.",
+      "difficulty": "easy",
+      "chapter": "Digestion",
+      "topic": "Enzymes",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 173,
+      "question_text": "Which organ regulates osmoregulation?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Heart",
+        "Brain"
+      ],
+      "correct_answer": "Kidney",
+      "solution": "Kidney balances salts and water.",
+      "difficulty": "medium",
+      "chapter": "Excretion",
+      "topic": "Osmoregulation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 174,
+      "question_text": "Which of the following is a primary lymphoid organ?",
+      "options": [
+        "Thymus",
+        "Spleen",
+        "Lymph nodes",
+        "Tonsils"
+      ],
+      "correct_answer": "Thymus",
+      "solution": "T-lymphocytes mature in thymus.",
+      "difficulty": "medium",
+      "chapter": "Immunity",
+      "topic": "Lymphoid organs",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 175,
+      "question_text": "Which neurons carry impulses from CNS to muscle?",
+      "options": [
+        "Motor neurons",
+        "Sensory neurons",
+        "Interneurons",
+        "Relay neurons"
+      ],
+      "correct_answer": "Motor neurons",
+      "solution": "Motor neurons send signals from brain/spinal cord to effectors.",
+      "difficulty": "easy",
+      "chapter": "Neural Control",
+      "topic": "Neurons",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 176,
+      "question_text": "Which hormone is known as the ‘fight or flight’ hormone?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Oxytocin",
+        "Thyroxine"
+      ],
+      "correct_answer": "Adrenaline",
+      "solution": "Adrenaline increases heart rate and prepares body for emergency.",
+      "difficulty": "easy",
+      "chapter": "Endocrine System",
+      "topic": "Adrenal hormones",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 177,
+      "question_text": "Which part of the female reproductive system is the site of fertilisation?",
+      "options": [
+        "Fallopian tube",
+        "Uterus",
+        "Ovary",
+        "Vagina"
+      ],
+      "correct_answer": "Fallopian tube",
+      "solution": "Fertilisation occurs in ampulla region of fallopian tube.",
+      "difficulty": "easy",
+      "chapter": "Reproduction",
+      "topic": "Fertilisation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+    {
+      "question_number": 178,
+      "question_text": "Which of the following is an example of passive immunity?",
+      "options": [
+        "Colostrum to newborn",
+        "Vaccination",
+        "Recovery from infection",
+        "Allergic reactions"
+      ],
+      "correct_answer": "Colostrum to newborn",
+      "solution": "Maternal antibodies give temporary passive immunity.",
+      "difficulty": "medium",
+      "chapter": "Immunity",
+      "topic": "Passive immunity",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 179,
+      "question_text": "Which biomolecule provides highest energy per gram?",
+      "options": [
+        "Lipids",
+        "Carbohydrates",
+        "Proteins",
+        "Nucleic acids"
+      ],
+      "correct_answer": "Lipids",
+      "solution": "Lipids provide ~9 kcal/g, highest among biomolecules.",
+      "difficulty": "easy",
+      "chapter": "Biomolecules",
+      "topic": "Energy value",
+      "marks": 4,
+      "negative_marks": -1
+    },
+
+
+    {
+      "question_number": 180,
+      "question_text": "Which of the following is responsible for maintaining posture and balance?",
+      "options": [
+        "Cerebellum",
+        "Cerebrum",
+        "Medulla",
+        "Pons"
+      ],
+      "correct_answer": "Cerebellum",
+      "solution": "Cerebellum coordinates voluntary movements and balance.",
+      "difficulty": "medium",
+      "chapter": "Neural Control",
+      "topic": "Brain functions",
+      "marks": 4,
+      "negative_marks": -1
+    }
+  ]
+}

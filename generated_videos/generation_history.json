@@ -1,0 +1,23 @@
+[
+  {
+    "topic": "Chemical Bonding",
+    "subject": null,
+    "timestamp": "2025-12-07T01:05:55.830014",
+    "video_path": "generated_videos/video_frames",
+    "success": true
+  },
+  {
+    "topic": "Chemical Bonding",
+    "subject": "Chemistry",
+    "timestamp": "2025-12-07T01:23:18.897656",
+    "video_path": "generated_videos/explainer_Educational_Video_20251207_012332.mp4",
+    "success": true
+  },
+  {
+    "topic": "Organic Chemistry Basics",
+    "subject": "Chemistry",
+    "timestamp": "2025-12-07T07:02:48.686914",
+    "video_path": "generated_videos\\video_frames",
+    "success": true
+  }
+]

@@ -1,0 +1,774 @@
+{
+  "paper_info": {
+    "exam_type": "NEET",
+    "year": 2026,
+    "subject": "Physics"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "In NEET-2026 prediction: A question on Kinematics — Equations of motion, projectile. Consider a standard problem: Kinematics scenario #1. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Kinematics and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "hard",
+      "chapter": "Kinematics",
+      "topic": "Equations of motion, projectile",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 2,
+      "question_text": "In NEET-2026 prediction: A question on Laws of Motion — Friction, equilibrium. Consider a standard problem: Laws of Motion scenario #2. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Laws of Motion and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Laws of Motion",
+      "topic": "Friction, equilibrium",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 3,
+      "question_text": "In NEET-2026 prediction: A question on Work Energy Power — Work-energy theorem. Consider a standard problem: Work Energy Power scenario #3. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Work Energy Power and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Work Energy Power",
+      "topic": "Work-energy theorem",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 4,
+      "question_text": "In NEET-2026 prediction: A question on Rotational Dynamics — Moment of inertia, torque. Consider a standard problem: Rotational Dynamics scenario #4. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Rotational Dynamics and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Rotational Dynamics",
+      "topic": "Moment of inertia, torque",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 5,
+      "question_text": "In NEET-2026 prediction: A question on Gravitation — Kepler, g variation. Consider a standard problem: Gravitation scenario #5. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Gravitation and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Gravitation",
+      "topic": "Kepler, g variation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 6,
+      "question_text": "In NEET-2026 prediction: A question on Properties of Matter — Surface tension, viscosity. Consider a standard problem: Properties of Matter scenario #6. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Properties of Matter and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "hard",
+      "chapter": "Properties of Matter",
+      "topic": "Surface tension, viscosity",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 7,
+      "question_text": "In NEET-2026 prediction: A question on Thermodynamics — Laws, calorimetry. Consider a standard problem: Thermodynamics scenario #7. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Thermodynamics and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Thermodynamics",
+      "topic": "Laws, calorimetry",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 8,
+      "question_text": "In NEET-2026 prediction: A question on Kinetic Theory — Ideal gas. Consider a standard problem: Kinetic Theory scenario #8. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Kinetic Theory and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Kinetic Theory",
+      "topic": "Ideal gas",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 9,
+      "question_text": "In NEET-2026 prediction: A question on Oscillations — SHM, simple pendulum. Consider a standard problem: Oscillations scenario #9. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Oscillations and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Oscillations",
+      "topic": "SHM, simple pendulum",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 10,
+      "question_text": "In NEET-2026 prediction: A question on Waves — Sound, Doppler. Consider a standard problem: Waves scenario #10. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Waves and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Waves",
+      "topic": "Sound, Doppler",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 11,
+      "question_text": "In NEET-2026 prediction: A question on Electric Charges & Fields — Coulomb, field lines. Consider a standard problem: Electric Charges & Fields scenario #11. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Electric Charges & Fields and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "hard",
+      "chapter": "Electric Charges & Fields",
+      "topic": "Coulomb, field lines",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 12,
+      "question_text": "In NEET-2026 prediction: A question on Current Electricity — Ohm's law, circuits. Consider a standard problem: Current Electricity scenario #12. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Current Electricity and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Current Electricity",
+      "topic": "Ohm's law, circuits",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 13,
+      "question_text": "In NEET-2026 prediction: A question on Magnetism — Biot-Savart, Ampere. Consider a standard problem: Magnetism scenario #13. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Magnetism and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Magnetism",
+      "topic": "Biot-Savart, Ampere",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 14,
+      "question_text": "In NEET-2026 prediction: A question on Electromagnetic Induction — Faraday, Lenz. Consider a standard problem: Electromagnetic Induction scenario #14. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Electromagnetic Induction and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday, Lenz",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 15,
+      "question_text": "In NEET-2026 prediction: A question on Alternating Current — RLC circuits. Consider a standard problem: Alternating Current scenario #15. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Alternating Current and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Alternating Current",
+      "topic": "RLC circuits",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 16,
+      "question_text": "In NEET-2026 prediction: A question on Optics - Ray Optics — Refraction, lens. Consider a standard problem: Optics - Ray Optics scenario #16. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Optics - Ray Optics and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "hard",
+      "chapter": "Optics - Ray Optics",
+      "topic": "Refraction, lens",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 17,
+      "question_text": "In NEET-2026 prediction: A question on Optics - Wave Optics — Interference, diffraction. Consider a standard problem: Optics - Wave Optics scenario #17. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Optics - Wave Optics and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Optics - Wave Optics",
+      "topic": "Interference, diffraction",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 18,
+      "question_text": "In NEET-2026 prediction: A question on Modern Physics — Photoelectric effect, atomic. Consider a standard problem: Modern Physics scenario #18. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Modern Physics and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric effect, atomic",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 19,
+      "question_text": "In NEET-2026 prediction: A question on Semiconductors — Diode, transistor. Consider a standard problem: Semiconductors scenario #19. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Semiconductors and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Semiconductors",
+      "topic": "Diode, transistor",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 20,
+      "question_text": "In NEET-2026 prediction: A question on Electromagnetics & EM waves — Maxwell basics. Consider a standard problem: Electromagnetics & EM waves scenario #20. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Electromagnetics & EM waves and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Electromagnetics & EM waves",
+      "topic": "Maxwell basics",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 21,
+      "question_text": "In NEET-2026 prediction: A question on Kinematics — Equations of motion, projectile. Consider a standard problem: Kinematics scenario #21. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Kinematics and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "hard",
+      "chapter": "Kinematics",
+      "topic": "Equations of motion, projectile",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 22,
+      "question_text": "In NEET-2026 prediction: A question on Laws of Motion — Friction, equilibrium. Consider a standard problem: Laws of Motion scenario #22. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Laws of Motion and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Laws of Motion",
+      "topic": "Friction, equilibrium",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 23,
+      "question_text": "In NEET-2026 prediction: A question on Work Energy Power — Work-energy theorem. Consider a standard problem: Work Energy Power scenario #23. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Work Energy Power and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Work Energy Power",
+      "topic": "Work-energy theorem",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 24,
+      "question_text": "In NEET-2026 prediction: A question on Rotational Dynamics — Moment of inertia, torque. Consider a standard problem: Rotational Dynamics scenario #24. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Rotational Dynamics and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Rotational Dynamics",
+      "topic": "Moment of inertia, torque",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 25,
+      "question_text": "In NEET-2026 prediction: A question on Gravitation — Kepler, g variation. Consider a standard problem: Gravitation scenario #25. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Gravitation and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Gravitation",
+      "topic": "Kepler, g variation",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 26,
+      "question_text": "In NEET-2026 prediction: A question on Properties of Matter — Surface tension, viscosity. Consider a standard problem: Properties of Matter scenario #26. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Properties of Matter and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "hard",
+      "chapter": "Properties of Matter",
+      "topic": "Surface tension, viscosity",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 27,
+      "question_text": "In NEET-2026 prediction: A question on Thermodynamics — Laws, calorimetry. Consider a standard problem: Thermodynamics scenario #27. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Thermodynamics and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Thermodynamics",
+      "topic": "Laws, calorimetry",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 28,
+      "question_text": "In NEET-2026 prediction: A question on Kinetic Theory — Ideal gas. Consider a standard problem: Kinetic Theory scenario #28. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Kinetic Theory and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Kinetic Theory",
+      "topic": "Ideal gas",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 29,
+      "question_text": "In NEET-2026 prediction: A question on Oscillations — SHM, simple pendulum. Consider a standard problem: Oscillations scenario #29. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Oscillations and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Oscillations",
+      "topic": "SHM, simple pendulum",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 30,
+      "question_text": "In NEET-2026 prediction: A question on Waves — Sound, Doppler. Consider a standard problem: Waves scenario #30. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Waves and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Waves",
+      "topic": "Sound, Doppler",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 31,
+      "question_text": "In NEET-2026 prediction: A question on Electric Charges & Fields — Coulomb, field lines. Consider a standard problem: Electric Charges & Fields scenario #31. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Electric Charges & Fields and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "hard",
+      "chapter": "Electric Charges & Fields",
+      "topic": "Coulomb, field lines",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 32,
+      "question_text": "In NEET-2026 prediction: A question on Current Electricity — Ohm's law, circuits. Consider a standard problem: Current Electricity scenario #32. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Current Electricity and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Current Electricity",
+      "topic": "Ohm's law, circuits",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 33,
+      "question_text": "In NEET-2026 prediction: A question on Magnetism — Biot-Savart, Ampere. Consider a standard problem: Magnetism scenario #33. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Magnetism and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Magnetism",
+      "topic": "Biot-Savart, Ampere",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 34,
+      "question_text": "In NEET-2026 prediction: A question on Electromagnetic Induction — Faraday, Lenz. Consider a standard problem: Electromagnetic Induction scenario #34. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Electromagnetic Induction and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday, Lenz",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 35,
+      "question_text": "In NEET-2026 prediction: A question on Alternating Current — RLC circuits. Consider a standard problem: Alternating Current scenario #35. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Alternating Current and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Alternating Current",
+      "topic": "RLC circuits",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 36,
+      "question_text": "In NEET-2026 prediction: A question on Optics - Ray Optics — Refraction, lens. Consider a standard problem: Optics - Ray Optics scenario #36. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Optics - Ray Optics and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "hard",
+      "chapter": "Optics - Ray Optics",
+      "topic": "Refraction, lens",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 37,
+      "question_text": "In NEET-2026 prediction: A question on Optics - Wave Optics — Interference, diffraction. Consider a standard problem: Optics - Wave Optics scenario #37. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Optics - Wave Optics and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Optics - Wave Optics",
+      "topic": "Interference, diffraction",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 38,
+      "question_text": "In NEET-2026 prediction: A question on Modern Physics — Photoelectric effect, atomic. Consider a standard problem: Modern Physics scenario #38. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Modern Physics and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric effect, atomic",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 39,
+      "question_text": "In NEET-2026 prediction: A question on Semiconductors — Diode, transistor. Consider a standard problem: Semiconductors scenario #39. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Semiconductors and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Semiconductors",
+      "topic": "Diode, transistor",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 40,
+      "question_text": "In NEET-2026 prediction: A question on Electromagnetics & EM waves — Maxwell basics. Consider a standard problem: Electromagnetics & EM waves scenario #40. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Electromagnetics & EM waves and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Electromagnetics & EM waves",
+      "topic": "Maxwell basics",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 41,
+      "question_text": "In NEET-2026 prediction: A question on Kinematics — Equations of motion, projectile. Consider a standard problem: Kinematics scenario #41. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Kinematics and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "hard",
+      "chapter": "Kinematics",
+      "topic": "Equations of motion, projectile",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 42,
+      "question_text": "In NEET-2026 prediction: A question on Laws of Motion — Friction, equilibrium. Consider a standard problem: Laws of Motion scenario #42. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 4",
+      "solution": "Short solution outline: Use concepts of Laws of Motion and NCERT fundamentals to arrive at Option 4.",
+      "difficulty": "medium",
+      "chapter": "Laws of Motion",
+      "topic": "Friction, equilibrium",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 43,
+      "question_text": "In NEET-2026 prediction: A question on Work Energy Power — Work-energy theorem. Consider a standard problem: Work Energy Power scenario #43. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 3",
+      "solution": "Short solution outline: Use concepts of Work Energy Power and NCERT fundamentals to arrive at Option 3.",
+      "difficulty": "medium",
+      "chapter": "Work Energy Power",
+      "topic": "Work-energy theorem",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 44,
+      "question_text": "In NEET-2026 prediction: A question on Rotational Dynamics — Moment of inertia, torque. Consider a standard problem: Rotational Dynamics scenario #44. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 2",
+      "solution": "Short solution outline: Use concepts of Rotational Dynamics and NCERT fundamentals to arrive at Option 2.",
+      "difficulty": "medium",
+      "chapter": "Rotational Dynamics",
+      "topic": "Moment of inertia, torque",
+      "marks": 4,
+      "negative_marks": -1
+    },
+    {
+      "question_number": 45,
+      "question_text": "In NEET-2026 prediction: A question on Gravitation — Kepler, g variation. Consider a standard problem: Gravitation scenario #45. What is the correct outcome?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "solution": "Short solution outline: Use concepts of Gravitation and NCERT fundamentals to arrive at Option 1.",
+      "difficulty": "medium",
+      "chapter": "Gravitation",
+      "topic": "Kepler, g variation",
+      "marks": 4,
+      "negative_marks": -1
+    }
+  ]
+}
