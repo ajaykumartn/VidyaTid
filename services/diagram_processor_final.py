@@ -18,10 +18,26 @@ import logging
 
 from PIL import Image
 import numpy as np
-import torch
-from torchvision import models, transforms
-import chromadb
-from chromadb.config import Settings
+
+try:
+    import torch
+    from torchvision import models, transforms
+    TORCH_AVAILABLE = True
+except ImportError:
+    TORCH_AVAILABLE = False
+    torch = None
+    models = None
+    transforms = None
+
+try:
+    import chromadb
+    from chromadb.config import Settings
+    CHROMADB_AVAILABLE = True
+except ImportError:
+    CHROMADB_AVAILABLE = False
+    chromadb = None
+    Settings = None
+
 from sqlalchemy import Column, String, Integer, Text, JSON, create_engine
 from sqlalchemy.orm import sessionmaker
 

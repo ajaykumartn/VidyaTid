@@ -22,11 +22,25 @@ import cv2
 import pytesseract
 import easyocr
 import torch
-from torchvision import models, transforms
+try:
+    from torchvision import models, transforms
+    TORCHVISION_AVAILABLE = True
+except ImportError:
+    TORCHVISION_AVAILABLE = False
+    models = None
+    transforms = None
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-import chromadb
-from chromadb.config import Settings
+
+try:
+    import chromadb
+    from chromadb.config import Settings
+    CHROMADB_AVAILABLE = True
+except ImportError:
+    CHROMADB_AVAILABLE = False
+    chromadb = None
+    Settings = None
 
 from config import Config
 from services.diagram_processor_final import DiagramPage

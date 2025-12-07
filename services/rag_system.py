@@ -29,13 +29,15 @@ try:
 except ImportError:
     SENTENCE_TRANSFORMERS_AVAILABLE = False
     SentenceTransformer = None
+
 try:
     import chromadb
+    from chromadb.config import Settings
     CHROMADB_AVAILABLE = True
 except ImportError:
     CHROMADB_AVAILABLE = False
     chromadb = None
-from chromadb.config import Settings
+    Settings = None
 
 # Configuration
 from config import Config
