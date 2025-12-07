@@ -23,8 +23,18 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Embeddings and Vector Store
-from sentence_transformers import SentenceTransformer
-import chromadb
+try:
+    from sentence_transformers import SentenceTransformer
+    SENTENCE_TRANSFORMERS_AVAILABLE = True
+except ImportError:
+    SENTENCE_TRANSFORMERS_AVAILABLE = False
+    SentenceTransformer = None
+try:
+    import chromadb
+    CHROMADB_AVAILABLE = True
+except ImportError:
+    CHROMADB_AVAILABLE = False
+    chromadb = None
 from chromadb.config import Settings
 
 # Configuration
